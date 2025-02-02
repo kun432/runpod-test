@@ -8,7 +8,7 @@ def handler(event):
 
     # タスクのプレースホルダー: 必要に応じて画像またはテキスト生成ロジックに置き換えてください
     time.sleep(seconds)
-    result = "作成しました！"
+    result = "画像を作成したよー！"
 
     return result
 
